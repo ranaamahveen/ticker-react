@@ -41,16 +41,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 To handle CORS issue, I used node as backend which makes a get call to the api to get the Ticker messages from the users
 
-Node server runs on port 4000, run the server using:
-nodemon server in backend folder
+Node server runs on port 4000, run the server inside backend folder using command promt:
+
+command to run the server:
+nodemon server
 [http://localhost:4000](http://localhost:4000).
 
 ## 'Steps to run the application'
+Once the browser and node servers are run, you can see the web page active
 
-open the app in browser using
-http://localhost:3000
+Type in the ticker symbol or set of symbols separated with comma in the textfield and click search button
 
-Type in the ticker symbol or set of symbols separated with comma and click on search button
+This shows the tweet count of each symbol retreived and also the latest tweets pulled for each symbol with time stamp.
 
-This shows the count of each symbol and also the latest tweets pulled for each symbol with time stamp.
+The detailed screenshots are attached in Screenshots folder /screenshots
 
