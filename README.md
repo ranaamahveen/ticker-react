@@ -56,3 +56,12 @@ This shows the tweet count of each symbol retreived and also the latest tweets p
 
 The detailed screenshots are attached in Screenshots folder /screenshots
 
+## 'Source Code Details'
+
+The below file contains the implementation of the web page 
+/src/component/search/Search.js
+
+The below file has code to handle CORS and also a get request to stockTwits api
+/backend/server.js
+
+
