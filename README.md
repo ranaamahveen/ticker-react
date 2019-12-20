@@ -37,32 +37,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## 'Node server'
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To handle CORS issue, I used node as backend which makes a get call to the api to get the Ticker messages from the users
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Node server runs on port 4000, run the server using:
+nodemon server in backend folder
+[http://localhost:4000](http://localhost:4000).
 
-### Code Splitting
+## 'Steps to run the application'
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+open the app in browser using
+http://localhost:3000
 
-### Analyzing the Bundle Size
+Type in the ticker symbol or set of symbols separated with comma and click on search button
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+This shows the count of each symbol and also the latest tweets pulled for each symbol with time stamp.
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
