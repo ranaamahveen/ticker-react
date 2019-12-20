@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ticker-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ticker-react/static/js/main.5283c105.chunk.js",
+    "main.js.map": "/ticker-react/static/js/main.5283c105.chunk.js.map",
+    "runtime-main.js": "/ticker-react/static/js/runtime-main.8aa183ee.js",
+    "runtime-main.js.map": "/ticker-react/static/js/runtime-main.8aa183ee.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/ticker-react/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b11151e6.chunk.js": "/ticker-react/static/js/2.b11151e6.chunk.js",
+    "static/js/2.b11151e6.chunk.js.map": "/ticker-react/static/js/2.b11151e6.chunk.js.map",
+    "index.html": "/ticker-react/index.html",
+    "precache-manifest.8a7e60d181d9aaacf86b608c71a3797d.js": "/ticker-react/precache-manifest.8a7e60d181d9aaacf86b608c71a3797d.js",
+    "service-worker.js": "/ticker-react/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/ticker-react/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ticker-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b11151e6.chunk.js.LICENSE": "/ticker-react/static/js/2.b11151e6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa183ee.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b11151e6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5283c105.chunk.js"
+  ]
+}
